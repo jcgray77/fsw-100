@@ -1,0 +1,52 @@
+<!DOCTYPR html>
+<html>
+    <head>
+        <title>My first website</title>
+    </head>
+    <body>
+        <div>
+        <h1>I am so excited to learn this</h1>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sprisemedia.com%2Fblog%2Fwomen-in-web-development-resources%2Fwomen_web_development_keyboard%2F&psig=AOvVaw2sNXyiUsroE0O1UP3OcOrz&ust=1582412998687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCKvvzh4-cCFQAAAAAdAAAAABAI" width="200px"/>
+       
+        <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fblog.aftercollege.com%2F5-hidden-secrets-working-web-developer%2F&psig=AOvVaw2sNXyiUsroE0O1UP3OcOrz&ust=1582412998687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCKvvzh4-cCFQAAAAAdAAAAABAN"= width"=200px"/>
+       
+        <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.lagoonmedia.com%2Fthe-best-web-development-services-for-your-business%2F&psig=AOvVaw2sNXyiUsroE0O1UP3OcOrz&ust=1582412998687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCKvvzh4-cCFQAAAAAdAAAAABAT" width="200px"/>
+        </div>
+       
+        <div>
+        <h2>Women in Coding are the future</h2>
+        <a href="https://womeninwebdev.com/"> go to women in web dev</a>
+        <a href="https://www.theguardian.com/technology/2017/mar/14/tech-women-code-workshops-developer-jobs"> go to the guardian</a>
+        <a href="https://code.likeagirl.io/5-things-i-learnt-as-a-self-taught-female-developer-7f5099400a?gi=ddaab26b85e6"></a>
+        </div>
+       
+        <div>
+        <h3>Single Mothers going to school</h3>
+        <p>we are all rockstars</p>
+        </d>
+        <div>
+        <h4>Life is going to be incredible</h4>
+        <span>work hard</span>
+        <span>to play hard</span>
+        </div>
+        
+        <div>
+        <h5>Anything is possible</h5>
+        <ol>
+            <li>never gonna stop learning</li>
+            <li>doing it for my boys</li>
+            <li>age is nothing but a number</li>
+        </ol>
+        </div>
+       
+        <div>
+        <h6>Teach by example</h6>
+        <ul>
+            <li>If I can do it so can you</li>
+            <li>Watch what your Mom can do</li>
+            <li>Mom and sons learning to code together</li>
+
+     </body>
+</html>
+
+        
