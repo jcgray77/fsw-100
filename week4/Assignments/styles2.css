@@ -1,0 +1,12 @@
+body, html {
+    margin: 10px;
+}
+
+.box-model {
+    width: 100px;
+    height: 100px;
+}
+.lightpink {
+    background-color: #F5C6D6;
+    
+}

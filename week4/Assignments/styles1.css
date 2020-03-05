@@ -1,0 +1,56 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+
+}
+.home {
+    position: relative;
+    left: 275px;
+
+}
+.about {
+    position: relative;
+    left: 355px;
+
+}
+
+.menu {
+    position: relative;
+    left: 235px;
+
+}
+.a href GotoGrid {
+    position: relative;
+    left: 400px;
+
+}
+
+div {
+    overflow-y: scroll;
+}
+
+h1 {
+    position: center;
+    font-size: medium;
+    overflow-y: auto;
+}
+
+p {
+    margin-right: 10px;
+}
+
+.disney {
+    position: relative;
+    margin-right: 20px;
+    margin-bottom: 10px;
+
+}
+
+
+
