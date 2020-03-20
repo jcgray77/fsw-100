@@ -1,0 +1,99 @@
+html, body {
+    margin: 0;
+    padding: 0;
+
+}
+
+#flex-box {
+    width: 400px;
+    height: 400px;
+    border: 10px black;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 2s;
+
+}
+#flex-box:hover {
+    background-color: coral;
+    width: 200px;
+
+}   
+#flex-box > div:nth-child(1){
+    background-color: dodgerblue;
+    height: 30px;
+}
+
+#flex-box > div:nth-child(2){
+    background-color: firebrick;
+    height: 30px;
+
+}
+
+
+#flex-box > div:nth-child(3){
+    background-color: purple;
+    height: 30px;
+}
+
+#flex-box > div:nth-child(4){
+    background-color: orangered;
+    height: 30px;
+
+}
+
+
+#flex-box > div:nth-child(5){
+    background-color: teal;
+    height: 30px;
+}
+
+#flex-box > div:nth-child(6){
+    background-color: pink;
+    height: 30px;
+
+
+
+}
+#flex-box > div:nth-child(1):hover {
+    background-color: darkgreen;
+    opacity: 0.5;
+    transition-duration: 2s;
+
+}
+
+#flex-box > div:nth-child(2):hover {
+    height: 100px;
+    box-shadow: 5px 10px;
+    transition-duration: 2s;
+}
+
+#flex-box > div:nth-child(3):hover {
+    margin: 10px;
+    text-align: center;
+    transition-duration: 5s;
+}
+
+#flex-box > div:nth-child(4):hover {
+    border-radius: 20mm;
+    color: darkgreen;
+    transition-duration: 1s;
+
+}
+
+
+#flex-box > div:nth-child(5):hover {
+    font-family: fantasy;
+    text-align: center;
+    transition-duration: 3s;
+}
+
+#flex-box > div:nth-child(6):hover {
+    padding: 50px;
+    font-size: 20mm;
+    transition-duration: 1s;
+
+}
